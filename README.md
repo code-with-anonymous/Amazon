@@ -1,1 +1,1 @@
-Amazon clonw made with html and Css
+**Amazon clone made with html and Css**
